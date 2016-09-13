@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"owner":"vagrant","group":"vagrant","guestpath":"/app","hostpath":"/home/ross146/Server/Backbone_laravel","disabled":false,"__vagrantfile":true}}}
